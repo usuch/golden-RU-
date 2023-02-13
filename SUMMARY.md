@@ -5,7 +5,7 @@
 
 ## ✴ Начало работы
 
-* [Getting started as a submitter or verifier](getting-started/getting-started-as-a-api-submitter-or-verifier.md)
+* [Начало работы в качестве подающего или проверяющего](getting-started/getting-started-as-a-api-submitter-or-verifier.md)
 * [Getting started as a protocol developer](getting-started/getting-started-as-a-protocol-developer.md)
 * [Getting started as a data collector](getting-started/getting-started-as-a-data-collector.md)
 * [Getting started as a dApp user](getting-started/getting-started-as-a-dapp-user.md)
@@ -64,7 +64,7 @@
 ## 🤖 Данные и инструменты
 
 * [Data Sources](data-and-tools/data-sources.md)
-* [Apps and Demos](data-and-tools/apps-and-demos.md)
+* [Apps and Demos](Приложения%20и%20демонстрации.md)
 * [Dataset Uploader](data-and-tools/dataset-uploader.md)
 
 ## ⚖ Управление
