@@ -6,10 +6,10 @@
 ## ✴ Начало работы
 
 * [Начало работы в качестве подающего или проверяющего](getting-started/getting-started-as-a-api-submitter-or-verifier.md)
-* [Getting started as a protocol developer](getting-started/getting-started-as-a-protocol-developer.md)
-* [Getting started as a data collector](getting-started/getting-started-as-a-data-collector.md)
-* [Getting started as a dApp user](getting-started/getting-started-as-a-dapp-user.md)
-* [Getting started in governance and community](getting-started/getting-started-in-governance-and-community.md)
+* [Начало работы в качестве разработчика протокола](getting-started/getting-started-as-a-protocol-developer.md)
+* [Начало работы в качестве сборщика данных](getting-started/getting-started-as-a-data-collector.md)
+* [Начало работы в качестве пользователя dApp](getting-started/getting-started-as-a-dapp-user.md)
+* [Начало работы в управлении и сообществе](getting-started/getting-started-in-governance-and-community.md)
 
 ## ♾ Протокол
 
